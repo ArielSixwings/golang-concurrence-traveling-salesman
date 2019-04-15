@@ -1,7 +1,8 @@
-1- Depurar construção de caminhos.
-2- Gerar todos os 192 caminhos aplicando podas.
+DONE--->1- Depurar construção de caminhos.
+DONE--->2- Gerar todos os 192 caminhos aplicando podas.
 3- Construir algoritmo de ligação de regioes baseado em estudo de clusters.
 4- Implementar o cuncurrence traveling salesman.
 5- Escrever bases teóricas baseado em estudo e no artigo.
 6- Estrutura de decisão entre os 2 algoritmos baseado no indice de clustrerização ou algum parâmetro descoberto durante estudo.
-7- Revisar,corrigir e enviar
+7- Pintura.
+8- Revisar,corrigir e enviar
