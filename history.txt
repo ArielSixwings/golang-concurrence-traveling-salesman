@@ -1,0 +1,1000 @@
+ 1003  clear
+ 1004  go run main.go
+ 1005  clear
+ 1006  go run main.go
+ 1007  clear
+ 1008  go run main.go
+ 1009  clear
+ 1010  go run main.go
+ 1011  clear
+ 1012  go run main.go
+ 1013  clear
+ 1014  go run main.go
+ 1015  clear
+ 1016  go run main.go
+ 1017  clear
+ 1018  go run main.go
+ 1019  clear
+ 1020  go run main.go
+ 1021  clear
+ 1022  go run main.go
+ 1023  clear
+ 1024  go run main.go
+ 1025  clear
+ 1026  go run main.go
+ 1027  clear
+ 1028  go run main.go
+ 1029  clear
+ 1030  go run main.go
+ 1031  clear
+ 1032  go run main.go
+ 1033  clear
+ 1034  go run main.go
+ 1035  clear
+ 1036  go run main.go
+ 1037  clear
+ 1038  g++ Paths.cpp -o app `pkg-config --cflags --libs opencv`
+ 1039  go run main.go
+ 1040  clear
+ 1041  g++ Paths.cpp -o app `pkg-config --cflags --libs opencv`
+ 1042  go run main.go
+ 1043  clear
+ 1044  g++ Paths.cpp -o app `pkg-config --cflags --libs opencv`
+ 1045  clear
+ 1046  g++ Paths.cpp -o app `pkg-config --cflags --libs opencv`
+ 1047  clear
+ 1048  g++ Paths.cpp -o app `pkg-config --cflags --libs opencv`
+ 1049  clear
+ 1050  g++ Paths.cpp -o app `pkg-config --cflags --libs opencv`
+ 1051  go run main.go
+ 1052  clear
+ 1053  git add -A
+ 1054  git status
+ 1055  git commit -m "Building all the paths in the subimages using golang native concurrence"
+ 1056  clear
+ 1057  git push -u origin master
+ 1058  git status
+ 1059  git add -A "beta version of the next step"
+ 1060  git add -A
+ 1061  git commit -m "beta version of the nest step"
+ 1062  git push -u origin master
+ 1063  clear
+ 1064  git status
+ 1065  g++ DivideandConquer.cpp -o app `pkg-config --cflags --libs opencv`
+ 1066  clear
+ 1067  g++ DivideandConquer.cpp -o app `pkg-config --cflags --libs opencv`
+ 1068  clear
+ 1069  g++ DivideandConquer.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1070  ./divide
+ 1071  ./divide >midgardspots.txt
+ 1072  ./divide <init.txt 
+ 1073  ./divide <fullspots.txt 
+ 1074  ./divide <fullspots.txt >midgardspots.txt
+ 1075  clear
+ 1076  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1077  clear
+ 1078  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1079  ./divide
+ 1080  clear
+ 1081  ./divide
+ 1082  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1083  ./divide <fullspots.txt 
+ 1084  clear
+ 1085  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1086  ./divide <fullspots.txt 
+ 1087  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1088  ./divide 
+ 1089  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1090  ./divide <fullspots.txt 
+ 1091  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1092  ./divide <fullspots.txt 
+ 1093  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1094  ./divide <fullspots.txt 
+ 1095  clear
+ 1096  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1097  ./divide <fullspots.txt 
+ 1098  clear
+ 1099  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1100  ./divide <fullspots.txt 
+ 1101  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1102  ./divide <fullspots.txt 
+ 1103  clear
+ 1104  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1105  ./divide <fullspots.txt 
+ 1106  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1107  ./divide <fullspots.txt 
+ 1108  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1109  ./divide <fullspots.txt 
+ 1110  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1111  ./divide <fullspots.txt 
+ 1112  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1113  ./divide <fullspots.txt 
+ 1114  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1115  ./divide <fullspots.txt 
+ 1116  clear
+ 1117  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1118  ./divide <fullspots.txt 
+ 1119  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1120  ./divide <fullspots.txt 
+ 1121  CLEAR
+ 1122  clear
+ 1123  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1124  clear
+ 1125  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1126  clear
+ 1127  ./divide <fullspots.txt 
+ 1128  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1129  ./divide <fullspots.txt 
+ 1130  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1131  ./divide <fullspots.txt 
+ 1132  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1133  ./divide <fullspots.txt 
+ 1134  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1135  ./divide <fullspots.txt 
+ 1136  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1137  ./divide <fullspots.txt 
+ 1138  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1139  ./divide <fullspots.txt 
+ 1140  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1141  clear
+ 1142  ./divide <fullspots.txt 
+ 1143  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1144  ./divide <fullspots.txt 
+ 1145  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1146  ./divide <fullspots.txt 
+ 1147  clear
+ 1148  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1149  clear
+ 1150  ./divide <fullspots.txt 
+ 1151  clear
+ 1152  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1153  ./divide <fullspots.txt 
+ 1154  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1155  ./divide <fullspots.txt 
+ 1156  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1157  ./divide <fullspots.txt 
+ 1158  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1159  ./divide <fullspots.txt 
+ 1160  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1161  ./divide <fullspots.txt 
+ 1162  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1163  ./divide <fullspots.txt 
+ 1164  clear
+ 1165  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1166  clear
+ 1167  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1168  ./divide <fullspots.txt 
+ 1169  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1170  ./divide <fullspots.txt 
+ 1171  ./divide <fullspots.txt clear
+ 1172  clear
+ 1173  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1174  ./divide <fullspots.txt clear
+ 1175  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1176  ./divide <fullspots.txt clear
+ 1177  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1178  ./divide <fullspots.txt clear
+ 1179  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1180  ./divide <fullspots.txt clear
+ 1181  clear
+ 1182  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1183  clear
+ 1184  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1185  clear
+ 1186  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1187  ./divide <fullspots.txt clear
+ 1188  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1189  ./divide <fullspots.txt clear
+ 1190  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1191  ./divide <fullspots.txt clear
+ 1192  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1193  clear
+ 1194  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1195  ./divide <fullspots.txt clear
+ 1196  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1197  ./divide <fullspots.txt clear
+ 1198  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1199  ./divide <fullspots.txt clear
+ 1200  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1201  ./divide <fullspots.txt clear
+ 1202  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1203  ./divide <fullspots.txt clear
+ 1204  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1205  ./divide <fullspots.txt clear
+ 1206  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1207  ./divide <fullspots.txt clear
+ 1208  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1209  ./divide <fullspots.txt clear
+ 1210  clear
+ 1211  ./divide <fullspots.txt clear
+ 1212  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1213  ./divide <fullspots.txt clear
+ 1214  clear
+ 1215  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1216  clear
+ 1217  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1218  clear
+ 1219  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1220  ./divide <fullspots.txt clear
+ 1221  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1222  ./divide <fullspots.txt clear
+ 1223  clear
+ 1224  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1225  ./divide <fullspots.txt clear
+ 1226  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1227  ./divide <fullspots.txt clear
+ 1228  clear
+ 1229  ./divide <fullspots.txt clear
+ 1230  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1231  ./divide <fullspots.txt clear
+ 1232  clear
+ 1233  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1234  ./divide <fullspots.txt clear
+ 1235  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1236  ./divide <fullspots.txt clear
+ 1237  clear
+ 1238  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1239  clear
+ 1240  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1241  ./divide <fullspots.txt clear
+ 1242  clear
+ 1243  ./divide <fullspots.txt clear
+ 1244  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1245  ./divide <fullspots.txt clear
+ 1246  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1247  ./divide <fullspots.txt clear
+ 1248  clear
+ 1249  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1250  ./divide <fullspots.txt clear
+ 1251  clear
+ 1252  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1253  ./divide <fullspots.txt clear
+ 1254  clear
+ 1255  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1256  ./divide <fullspots.txt clearclear
+ 1257  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1258  ./divide <fullspots.txt clearclear
+ 1259  clear
+ 1260  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1261  ./divide <fullspots.txt clearclear
+ 1262  clear
+ 1263  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1264  clear
+ 1265  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1266  clear
+ 1267  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1268  clear
+ 1269  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1270  clear
+ 1271  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1272  clear
+ 1273  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1274  clear
+ 1275  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1276  clear
+ 1277  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1278  clear
+ 1279  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1280  clear
+ 1281  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1282  clear
+ 1283  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1284  clear
+ 1285  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1286  clear
+ 1287  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1288  clear
+ 1289  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1290  clear
+ 1291  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1292  clear
+ 1293  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1294  clear
+ 1295  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1296  ./divide <fullspots.txt clearclear
+ 1297  ./divide <fullspots.txt
+ 1298  clear
+ 1299  ./divide <fullspots.txt clearclear
+ 1300  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1301  clear
+ 1302  ./divide <fullspots.txt clearclear
+ 1303  clear
+ 1304  ./divide <fullspots.txt
+ 1305  lear
+ 1306  ./divide <fullspots.txtclear
+ 1307  clear
+ 1308  ./divide <fullspots.txtclear
+ 1309  ./divide <fullspots.txt
+ 1310  clear
+ 1311  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1312  clear
+ 1313  ./divide <fullspots.txt
+ 1314  clear
+ 1315  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1316  ./divide <fullspots.txt
+ 1317  clear
+ 1318  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1319  clear
+ 1320  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1321  clear
+ 1322  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1323  clear
+ 1324  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1325  cclear
+ 1326  clear
+ 1327  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1328  cler
+ 1329  clear
+ 1330  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1331  clear
+ 1332  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1333  cler
+ 1334  clear
+ 1335  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1336  ./divide <fullspots.txt
+ 1337  clear
+ 1338  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1339  ./divide <fullspots.txt
+ 1340  ./divide <midgardpots.txt
+ 1341  ./divide <midgardspots.txt
+ 1342  ./divide <midgardspots.txt >log.txt
+ 1343  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1344  ./divide <midgardspots.txt >log.txt
+ 1345  ./divide <midgardspots.txt
+ 1346  clear
+ 1347  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1348  ./divide <midgardspots.txt >log
+ 1349  ./divide <midgardspots.txt
+ 1350  clear
+ 1351  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1352  ./divide <midgardspots.txt
+ 1353  clear
+ 1354  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1355  ./divide <midgardspots.txt
+ 1356  clear
+ 1357  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1358  ./divide <midgardspots.txt
+ 1359  clear
+ 1360  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1361  ./divide <midgardspots.txt
+ 1362  clear
+ 1363  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1364  ./divide <midgardspots.txt
+ 1365  clear
+ 1366  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1367  ./divide <midgardspots.txt
+ 1368  clear
+ 1369  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1370  ./divide <midgardspots.txt
+ 1371  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1372  ./divide <midgardspots.txt
+ 1373  clear
+ 1374  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1375  clear
+ 1376  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1377  clear
+ 1378  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1379  clear
+ 1380  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1381  clear
+ 1382  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1383  clear
+ 1384  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1385  clear
+ 1386  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1387  clear
+ 1388  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1389  clearclear
+ 1390  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1391  clear
+ 1392  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1393  clear
+ 1394  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1395  clear
+ 1396  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1397  clear
+ 1398  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1399  clear
+ 1400  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1401  ./divide <midgardspots.txt
+ 1402  clear
+ 1403  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1404  ./divide <midgardspots.txt
+ 1405  clear
+ 1406  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1407  ./divide <midgardspots.txt
+ 1408  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1409  ./divide <midgardspots.txt
+ 1410  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1411  ./divide <midgardspots.txt
+ 1412  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1413  ./divide <midgardspots.txt
+ 1414  clear
+ 1415  g++ Paths.cpp -o divide `pkg-config --cflags --libs opencv`
+ 1416  ./divide <midgardspots.txt
+ 1417  ./divide 
+ 1418  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1419  ./path
+ 1420  clear
+ 1421  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1422  clear
+ 1423  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1424  clear
+ 1425  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1426  ./path <midgardspots.txt 
+ 1427  clear
+ 1428  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1429  ./path <midgardspots.txt 
+ 1430  clear
+ 1431  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1432  ./path <midgardspots.txt 
+ 1433  clear
+ 1434  ./path <midgardspots.txt 
+ 1435  clear
+ 1436  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1437  ./path <midgardspots.txt 
+ 1438  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1439  ./path <midgardspots.txt 
+ 1440  clear
+ 1441  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1442  clear
+ 1443  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1444  ./path <midgardspots.txt 
+ 1445  clear
+ 1446  ./path <midgardspots.txt 
+ 1447  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1448  ./path <midgardspots.txt 
+ 1449  clear
+ 1450  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1451  ./path <midgardspots.txt 
+ 1452  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1453  clear
+ 1454  ./path <midgardspots.txt 
+ 1455  clear
+ 1456  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1457  ./path <midgardspots.txt 
+ 1458  clear
+ 1459  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1460  ./path <midgardspots.txt 
+ 1461  clear
+ 1462  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1463  clear
+ 1464  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1465  ./path <midgardspots.txt 
+ 1466  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1467  ./path <midgardspots.txt 
+ 1468  clear
+ 1469  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1470  ./path <midgardspots.txt 
+ 1471  clear
+ 1472  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1473  ./path <midgardspots.txt 
+ 1474  clear
+ 1475  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1476  ./path <midgardspots.txt 
+ 1477  clear
+ 1478  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1479  ./path <midgardspots.txt 
+ 1480  clear
+ 1481  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1482  ./path <midgardspots.txt 
+ 1483  clear
+ 1484  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1485  clear
+ 1486  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1487  ./path <midgardspots.txt 
+ 1488  ./path <midgardspots.txt  >log.txt
+ 1489  clear
+ 1490  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1491  ./path <midgardspots.txt  
+ 1492  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1493  ./path <midgardspots.txt  
+ 1494  clear
+ 1495  ./path <midgardspots.txt  >log.txt
+ 1496  clear
+ 1497  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1498  clear
+ 1499  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1500  ./path <midgardspots.txt  >log.txt
+ 1501  clear
+ 1502  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1503  ./path <midgardspots.txt 
+ 1504  clear
+ 1505  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1506  ./path <midgardspots.txt 
+ 1507  ./path <midgardspots.txt >log.txt
+ 1508  clear
+ 1509  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1510  ./path <midgardspots.txt >log.txt
+ 1511  clear
+ 1512  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1513  ./path <midgardspots.txt >log.txt
+ 1514  clear
+ 1515  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1516  ./path <midgardspots.txt >log.txt
+ 1517  clear
+ 1518  ./path <midgardspots.txt >log.txt
+ 1519  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1520  ./path <midgardspots.txt >log.txt
+ 1521  clear
+ 1522  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1523  ./path <midgardspots.txt >log.txt
+ 1524  clear
+ 1525  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1526  ./path <midgardspots.txt >log.txt
+ 1527  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1528  gdp path
+ 1529  gdb path
+ 1530  clear
+ 1531  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1532  gdb path
+ 1533  clear
+ 1534  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1535  ./path <midgardspots.txt
+ 1536  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1537  ./path <midgardspots.txt
+ 1538  clear
+ 1539  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1540  ./path <midgardspots.txt
+ 1541  clear
+ 1542  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1543  ./path <midgardspots.txt
+ 1544  clear
+ 1545  ./path <midgardspots.txt
+ 1546  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1547  ./path <midgardspots.txt
+ 1548  gdb path
+ 1549  clear
+ 1550  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1551  ./path <midgardspots.txt
+ 1552  clear
+ 1553  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1554  ./path <midgardspots.txt
+ 1555  clear
+ 1556  ./path <midgardspots.txt
+ 1557  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1558  ./path <midgardspots.txt
+ 1559  gdb path
+ 1560  cear
+ 1561  clear
+ 1562  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1563  gdb path
+ 1564  clear
+ 1565  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1566  gdb path
+ 1567  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1568  ./path <midgardspots.txt >log.txt
+ 1569  clear
+ 1570  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1571  ./path <midgardspots.txt >log.txt
+ 1572  clear
+ 1573  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1574  ./path <midgardspots.txt >log.txt
+ 1575  gdb path
+ 1576  clear
+ 1577  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1578  ./path <midgardspots.txt >log.txt
+ 1579  gdb path
+ 1580  clear
+ 1581  ./path <midgardspots.txt >log.txt
+ 1582  clear
+ 1583  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1584  ./path <midgardspots.txt >log.txt
+ 1585  clear
+ 1586  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1587  ./path <midgardspots.txt >log.txt
+ 1588  ./path <midgardspots.txt
+ 1589  clear
+ 1590  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1591  ./path <midgardspots.txt
+ 1592  ./path <midgardspots.txt >log.txt
+ 1593  clear
+ 1594  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1595  ./path <midgardspots.txt 
+ 1596  clear
+ 1597  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1598  ./path <midgardspots.txt 
+ 1599  clear
+ 1600  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1601  ./path <midgardspots.txt 
+ 1602  clear
+ 1603  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1604  ./path <midgardspots.txt 
+ 1605  clear
+ 1606  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1607  ./path <midgardspots.txt >midgardgraph.txt
+ 1608  gdb path
+ 1609  clear
+ 1610  ./path <midgardspots.txt >midgardgraph.txt
+ 1611  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1612  gdb path
+ 1613  clear
+ 1614  gdb path
+ 1615  clear
+ 1616  gdb path
+ 1617  clear
+ 1618  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1619  gdb path
+ 1620  clear
+ 1621  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1622  clear
+ 1623  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1624  ./path <midgardspots.txt >midgardgraph.txt
+ 1625  gdb path
+ 1626  clear
+ 1627  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1628  clear
+ 1629  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1630  clear
+ 1631  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1632  clear
+ 1633  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1634  ./path <midgardspots.txt >midgardgraph.txt
+ 1635  clear
+ 1636  ./path <midgardspots.txt >midgardgraph.txt
+ 1637  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1638  ./path <midgardspots.txt >midgardgraph.txt
+ 1639  ./path <midgardspots.txt
+ 1640  clear
+ 1641  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1642  ./path <midgardspots.txt
+ 1643  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1644  ./path <midgardspots.txt
+ 1645  clear
+ 1646  ./path <midgardspots.txt
+ 1647  clear
+ 1648  ./path <midgardspots.txt
+ 1649  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1650  ./path <midgardspots.txt
+ 1651  clear
+ 1652  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1653  ./path <midgardspots.txt
+ 1654  clear
+ 1655  ./path <midgardspots.txt
+ 1656  clear
+ 1657  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1658  clear
+ 1659  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1660  ./path <midgardspots.txt
+ 1661  clear
+ 1662  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1663  ./path <midgardspots.txt
+ 1664  clear
+ 1665  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1666  ./path <midgardspots.txt
+ 1667  clear
+ 1668  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1669  ./path <midgardspots.txt
+ 1670  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1671  ./path <midgardspots.txt
+ 1672  clear
+ 1673  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1674  ./path <midgardspots.txt
+ 1675  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1676  ./path <midgardspots.txt
+ 1677  clear
+ 1678  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1679  ./path <midgardspots.txt
+ 1680  clear
+ 1681  ./path <midgardspots.txt
+ 1682  clear
+ 1683  ./path <midgardspots.txt
+ 1684  clear
+ 1685  ./path <midgardspots.txt
+ 1686  clear
+ 1687  ./path <midgardspots.txt
+ 1688  clear
+ 1689  ./path <midgardspots.txt
+ 1690  clear
+ 1691  ./path <midgardspots.txt
+ 1692  clear
+ 1693  ./path <midgardspots.txt
+ 1694  clear
+ 1695  ./path <midgardspots.txt
+ 1696  clear
+ 1697  ./path <midgardspots.txt
+ 1698  clear
+ 1699  ./path <midgardspots.txt
+ 1700  clear
+ 1701  ./path <midgardspots.txt
+ 1702  clear
+ 1703  ./path <midgardspots.txt
+ 1704  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1705  ./path <midgardspots.txt
+ 1706  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1707  ./path <midgardspots.txt
+ 1708  gdb path
+ 1709  ./path <midgardspots.txt
+ 1710  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1711  gdb path
+ 1712  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1713  gdb path
+ 1714  clear
+ 1715  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1716  gdb path
+ 1717  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1718  gdb path
+ 1719  clear
+ 1720  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1721  gdb path
+ 1722  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1723  gdb path
+ 1724  clear
+ 1725  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1726  ./path <midgardspots.txt
+ 1727  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1728  ./path <midgardspots.txt
+ 1729  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1730  ./path <midgardspots.txt
+ 1731  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1732  ./path <midgardspots.txt
+ 1733  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1734  ./path <midgardspots.txt
+ 1735  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1736  ./path <midgardspots.txt
+ 1737  git status
+ 1738  git add -A
+ 1739  git commit -m "a lot done, a lot to be done"
+ 1740  git push -u origin master
+ 1741  clear
+ 1742  ./path <midgardspots.txt
+ 1743  /usr/bin/env
+ 1744  go run main.go 
+ 1745  chmod +x path.sh
+ 1746  chmod +x run.sh
+ 1747  chmod +x master_run.sh
+ 1748  chmod +x travel.sh
+ 1749  go run main.go 
+ 1750  g++ FindPath.cpp -o app `pkg-config --cflags --libs opencv`
+ 1751  clear
+ 1752  g++ FindPath.cpp -o app `pkg-config --cflags --libs opencv`
+ 1753  clear
+ 1754  g++ FindPath.cpp -o app `pkg-config --cflags --libs opencv`
+ 1755  cclear
+ 1756  clear
+ 1757  g++ FindPath.cpp -o app `pkg-config --cflags --libs opencv`
+ 1758  clear
+ 1759  g++ FindPath.cpp -o app `pkg-config --cflags --libs opencv`
+ 1760  clear
+ 1761  g++ FindPath.cpp -o app `pkg-config --cflags --libs opencv`
+ 1762  go run main.go 
+ 1763  git satus
+ 1764  git status
+ 1765  go run split.go 
+ 1766  clear
+ 1767  go run split.go 
+ 1768  go run splitcomma.go 
+ 1769  clear
+ 1770  go run InOut.go 
+ 1771  clear
+ 1772  go run InOut.go 
+ 1773  clear
+ 1774  go run InOut.go 
+ 1775  clear
+ 1776  go run InOut.go 
+ 1777  /usr/bin/env
+ 1778  go run EdgeTravel.go 
+ 1779  clear
+ 1780  go run EdgeTravel.go 
+ 1781  history
+ 1782  g++ Path.cpp -o app `pkg-config --cflags --libs opencv`
+ 1783  g++ path.cpp -o app `pkg-config --cflags --libs opencv`
+ 1784  g++ Paths.cpp -o app `pkg-config --cflags --libs opencv`
+ 1785  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1786  ./path <midgardspots.txt >midgardgraph.txt 
+ 1787  ./path <midgardspots.txt 
+ 1788  ./path <midgardspots.txt >midgardgraph.txt 
+ 1789  go run EdgeTravel.go <midgardgraph.txt 
+ 1790  clear
+ 1791  go run EdgeTravel.go <midgardgraph.txt 
+ 1792  clear
+ 1793  go run EdgeTravel.go <midgardgraph.txt 
+ 1794  ;
+ 1795  clear
+ 1796  go run EdgeTravel.go <midgardgraph.txt 
+ 1797  clear
+ 1798  go run EdgeTravel.go <midgardgraph.txt 
+ 1799  clear
+ 1800  go run EdgeTravel.go <midgardgraph.txt 
+ 1801  clear
+ 1802  go run EdgeTravel.go <midgardgraph.txt 
+ 1803  clear
+ 1804  go run EdgeTravel.go <midgardgraph.txt 
+ 1805  clear
+ 1806  go run EdgeTravel.go <midgardgraph.txt 
+ 1807  clear
+ 1808  go run EdgeTravel.go <midgardgraph.txt 
+ 1809  clear
+ 1810  go run EdgeTravel.go <midgardgraph.txt 
+ 1811  go run EdgeTravel.go 
+ 1812  go run EdgeTravel.go <midgardgraph.txt 
+ 1813  go run EdgeTravel.go 
+ 1814  go run EdgeTravel.go <midgardgraph.txt 
+ 1815  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1816  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1817  clear
+ 1818  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1819  ./path <midgardspots.txt >midgardgraph.txt 
+ 1820  ./path <midgardspots.txt 
+ 1821  ./path <midgardspots.txt >midgardgraph.txt 
+ 1822  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1823  ./path <midgardspots.txt >midgardgraph.txt 
+ 1824  clear
+ 1825  ./path <midgardspots.txt >midgardgraph.txt 
+ 1826  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1827  ./path <midgardspots.txt >midgardgraph.txt 
+ 1828  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1829  clear
+ 1830  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1831  clear
+ 1832  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1833  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1834  ./path <midgardspots.txt >midgardgraph.txt 
+ 1835  go run EdgeTravel.go <midgardgra
+ 1836  ./path <midgardspots.txt 
+ 1837  go run EdgeTravel.go <midgardgraph.txt 
+ 1838  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1839  go run EdgeTravel.go <midgardgraph.txt >oldpath.txt
+ 1840  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1841  clear
+ 1842  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1843  ./path <midgardspots.txt >midgardgraph.txt 
+ 1844  ./path <midgardspots.txt 
+ 1845  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1846  ./path <midgardspots.txt 
+ 1847  clear
+ 1848  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1849  ./path
+ 1850  ./path <midgardspots.txt 
+ 1851  clear
+ 1852  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1853  ./path <midgardspots.txt 
+ 1854  history
+ 1855  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1856  clear
+ 1857  ./path <midgardspots.txt >midgardgraph.txt 
+ 1858  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1859  /usr/bin/env
+ 1860  go run EdgeTravel.go <midgardgraph.txt 
+ 1861  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1862  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv`
+ 1863  ./path <path.txt
+ 1864  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1865  gdb path
+ 1866  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1867  gdb path
+ 1868  clear
+ 1869  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1870  /usr/bin/env
+ 1871  go run EdgeTravel.go <midgardgraph.txt >path.txt
+ 1872  ./path <path.txt
+ 1873  gdb path
+ 1874  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1875  clear
+ 1876  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1877  gdb path
+ 1878  clear
+ 1879  /usr/bin/env
+ 1880  go run EdgeTravel.go <path.txt
+ 1881  go run EdgeTravel.go <midgardspots.txt 
+ 1882  clear
+ 1883  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1884  ./path <path.txt 
+ 1885  ./path 
+ 1886  CLEAR
+ 1887  clear
+ 1888  gdb path
+ 1889  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1890  gdb path
+ 1891  clear
+ 1892  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1893  gdb path
+ 1894  clear
+ 1895  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1896  gdb path
+ 1897  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1898  gdb path
+ 1899  clear
+ 1900  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1901  ./path path.txt 
+ 1902  clear
+ 1903  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1904  clear
+ 1905  ./path path.txt 
+ 1906  ./path <path.txt 
+ 1907  git status
+ 1908  clear
+ 1909  git status
+ 1910  git add -A
+ 1911  git commit -m "first great other solution, a beta not working version...."
+ 1912  clear
+ 1913  git push -u orgigin master
+ 1914  git push -u origin master
+ 1915  clear
+ 1916  git add -A
+ 1917  git commit -m "to do list"
+ 1918  git push -u origin master
+ 1919  clear
+ 1920  git init
+ 1921  history
+ 1922  git remote add origin https://github.com/ArielSixwings/Project-3-the-fearless-fellowship
+ 1923  git status
+ 1924  git add -A
+ 1925  git commit "inital commit"
+ 1926  git commit -m "inital commit"
+ 1927  git push -u origin maste
+ 1928  git push -u origin master
+ 1929  git status
+ 1930  ./path <path.txt 
+ 1931  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1932  ./path <path.txt 
+ 1933  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1934  ./path <path.txt 
+ 1935  clear
+ 1936  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1937  ./path <path.txt 
+ 1938  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1939  clear
+ 1940  ./path <path.txt 
+ 1941  clear
+ 1942  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1943  ./path <path.txt >log.txt
+ 1944  /usr/bin/env
+ 1945  go run EdgeTravel.go <midgardspots.txt >log.txt
+ 1946  go run EdgeTravel.go <midgardgraph.txt.txt >log.txt
+ 1947  go run EdgeTravel.go <midgardgraph.txt >log.txt
+ 1948  clear
+ 1949  go run EdgeTravel.go <midgardgraph.txt >log.txt
+ 1950  clear
+ 1951  go run EdgeTravel.go <midgardgraph.txt >log.txt
+ 1952  clear
+ 1953  go run EdgeTravel.go <midgardgraph.txt >log.txt
+ 1954  clear
+ 1955  go run EdgeTravel.go <midgardgraph.txt >log.txt
+ 1956  clear
+ 1957  go run EdgeTravel.go <midgardgraph.txt >log.txt
+ 1958  clear
+ 1959  go run EdgeTravel.go <midgardgraph.txt >log.txt
+ 1960  history
+ 1961  ./path <midgardspots.txt >midgardgraph.txt
+ 1962  ./path <midgardspots.txt
+ 1963  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1964  gdb path
+ 1965  clear
+ 1966  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1967  gdb path
+ 1968  ./path <midgardspots.txt >log.txt
+ 1969  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1970  ./path <midgardspots.txt >log.txt
+ 1971  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1972  clear
+ 1973  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1974  ./path <midgardspots.txt >log.txt
+ 1975  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1976  ./path <midgardspots.txt >log.txt
+ 1977  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1978  ./path <midgardspots.txt >log.txt
+ 1979  clear
+ 1980  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1981  ./path <midgardspots.txt >log.txt
+ 1982  ./path <midgardspots.txt 
+ 1983  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1984  ./path <midgardspots.txt 
+ 1985  ./path <midgardspots.txt >log.txt
+ 1986  clear
+ 1987  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1988  ./path <midgardspots.txt >log.txt
+ 1989  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1990  ./path <midgardspots.txt >log.txt
+ 1991  clear
+ 1992  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1993  clear
+ 1994  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1995  ./path <midgardspots.txt >log.txt
+ 1996  g++ Paths.cpp -o path `pkg-config --cflags --libs opencv` -g
+ 1997  ./path <midgardspots.txt >midgardgraph.txt 
+ 1998  /usr/bin/env
+ 1999  git origin
+ 2000  git status
+ 2001  ./path <midgardspots.txt >midgardgraph.txt 
+ 2002  history > history.txt
