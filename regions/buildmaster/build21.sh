@@ -1,5 +1,5 @@
 #!/bin/bash
-# chmod +x build01.sh   para tornar run.sh executavel
+# chmod +x build21.sh   para tornar run.sh executavel
 
-./buildmatrix <.txt >.txt
+./buildmatrix <./regions/N/21.txt >./regions/region21.txt
 
